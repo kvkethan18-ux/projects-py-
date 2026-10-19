@@ -3,7 +3,7 @@
 # ================================
 
 # File name
-file_name = "shopping_list.txt"
+file_name = "Ultra shopping list.txt"
 
 
 # PART 1 - WRITING TO A FILE
