@@ -3,7 +3,7 @@
 # ================================
 
 # File name
-file_name = "Ultra shopping list.txt"
+file_name = "ultra shopping list.txt"
 
 
 # PART 1 - WRITING TO A FILE
@@ -73,9 +73,9 @@ shopping_file.close()
 
 # FINAL SUMMARY
 
-print("\n=======================================================================")
+print("\n================================")
 print("SHOPPING LIST MANAGER SUMMARY")
-print("=========================================================================")
+print("================================")
 print("File created:", file_name)
 print("Items were written, appended, and read successfully.")
-print("=========================================================================")
+print("================================")
