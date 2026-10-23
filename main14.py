@@ -82,12 +82,9 @@ def show_bio():
     about = about_text.get("1.0", END).strip()
  
     result_label.config(
-        text="Hello, " + name + "!
-"
-             "Age: " + age + "
-"
-             "Hobby: " + hobby + "
-"
+        text="Hello, " + name + "!"
+             "Age: " + age + ""
+             "Hobby: " + hobby + ""
              "About: " + about
     )
  
