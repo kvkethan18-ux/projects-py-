@@ -31,7 +31,7 @@ fight_started = False
 def msg():
     global fight_started
     fight_started = True
-    messagebox.showwarning("Read", "Shadow boss is coming lvl 200")
+    messagebox.showwarning("Read", "Shadow boss is coming lvl 20000")
 
 def kethan2():
     if fight_started == False:
